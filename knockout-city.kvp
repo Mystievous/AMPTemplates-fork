@@ -1,6 +1,6 @@
 Meta.DisplayName=Knockout City: Private Server Edition
 Meta.Description=Knockout City Private Server Edition Dedicated Server
-Meta.OS=Windows
+Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
 Meta.Arch=x86_64
 Meta.Author=Greelan
